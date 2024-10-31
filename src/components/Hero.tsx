@@ -10,10 +10,10 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 text-blue-600 dark:text-white">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 text-blue-600 dark:text-white tracking-tight">
             JJ Krasnick
           </h1>
-          <p className="text-xl md:text-2xl text-black dark:text-white mb-12 font-light">
+          <p className="text-xl md:text-2xl text-gray-700 dark:text-gray-300 mb-12 font-light">
             ML Engineer | Quant Developer | Full Stack Developer
           </p>
           <motion.a

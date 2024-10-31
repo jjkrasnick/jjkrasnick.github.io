@@ -7,7 +7,7 @@ export function Header() {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <a 
-            href="#hero" 
+            href="/" 
             className="text-2xl font-bold text-blue-600 dark:text-white"
           >
             JK
@@ -17,7 +17,7 @@ export function Header() {
             {['About', 'Skills', 'Experience', 'Projects', 'Contact'].map((item) => (
               <a
                 key={item}
-                href={`#${item.toLowerCase()}`}
+                href={`/${item.toLowerCase()}`}
                 className="text-black dark:text-white hover:text-blue-600 dark:hover:text-blue-400 font-medium transition-all duration-300"
               >
                 {item}
