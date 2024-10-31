@@ -7,6 +7,7 @@ export function Contact() {
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="text-4xl font-bold mb-12 text-blue-600 dark:text-white text-center">Contact</h2>
         <div className="max-w-2xl mx-auto">
+          {/* Form with animation */}
           <motion.form
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
