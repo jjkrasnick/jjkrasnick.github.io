@@ -35,8 +35,8 @@ export function About() {
             <h2 className="text-4xl font-bold mb-8 text-blue-600 dark:text-white">About</h2>
             <p className="text-lg leading-relaxed text-black dark:text-white mb-10 max-w-3xl mx-auto">
               I'm pursuing multiple degrees at Pepperdine University in Mathematics, Computer Science, Data Science, Economics, and Finance. 
-              My research focuses on Machine Learning and Mathematical Finance, and I'm currently self-studying for various certifications including 
-              CFA Level I, SIE, Series 63, Series 65, and Series 66. I've completed study abroad programs in London, UK and Tokyo, Japan, 
+              My research focuses on Machine Learning and Mathematical Finance. I'm currently self-studying for various certifications, including
+              CFA Level I, SIE, Series 63, Series 65, and Series 66. I've completed study abroad programs in London, UK, and Tokyo, Japan,
               gaining valuable international experience in technology and finance.
             </p>
             <motion.a
