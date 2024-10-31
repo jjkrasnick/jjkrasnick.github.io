@@ -1,3 +1,3 @@
-# jjkrasnick.github.io
+# JJ's Portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jjkrasnick/jjkrasnick.github.io)
+JJ Krasnick's site.
