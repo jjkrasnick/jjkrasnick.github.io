@@ -5,7 +5,6 @@ import { About } from './components/About';
 import { Skills } from './components/Skills';
 import { WorkExperience } from './components/WorkExperience';
 import { Projects } from './components/Projects';
-import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { ScrollToTop } from './components/ScrollToTop';
 import { ThemeProvider } from './context/ThemeContext';
@@ -27,7 +26,6 @@ export default function App() {
                 <Skills />
                 <WorkExperience />
                 <Projects />
-                <Contact />
               </div>
             </main>
             <Footer />
