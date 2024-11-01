@@ -14,7 +14,7 @@ export function Header() {
           </a>
           
           <div className="hidden md:flex items-center space-x-8">
-            {['About', 'Skills', 'Experience', 'Projects', 'Contact'].map((item) => (
+            {['About', 'Skills', 'Experience', 'Projects'].map((item) => (
               <a
                 key={item}
                 href={`/${item.toLowerCase()}`}
